@@ -1,0 +1,28 @@
+{
+  "name": "lr-util-file",
+  "version": "0.1.0",
+  "description": "file util",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lanrenqifu/lr-util-file.git"
+  },
+  "author": {
+    "name": "lanren"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanrenqifu/lr-util-file/issues"
+  },
+  "homepage": "https://github.com/lanrenqifu/lr-util-file.git",
+  "dependencies": {
+    "is-relative-url": "^1.0.0",
+    "lodash": "^3.9.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
