@@ -1,6 +1,6 @@
 {
   "name": "lr-util-file",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "file util",
   "main": "index.js",
   "scripts": {
